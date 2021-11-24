@@ -2,10 +2,14 @@
 
 ### Sobre mim    :octocat: 
 - Atualmente estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas, Unicesumar.
-- Front-end developer, Angular, Angular Material, Bootstrap, React, JavaScript, Typescript, HTML, CSS.  
+- Front-end developer, Angular, Angular Material, Bootstrap, React, TDD, JavaScript, Typescript, JSX, HTML, CSS.  
 
 ### Portfólio 
 - https://deboralara1.github.io/Portfolio/index.html
+
+### Portfólio 
+- https://curriculodebora-lara.vercel.app/
+
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/deboralara/)
