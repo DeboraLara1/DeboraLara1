@@ -7,7 +7,7 @@
 ### Portfólio 
 - https://deboralara1.github.io/Portfolio/index.html
 
-### Portfólio 
+### Currículo 
 - https://curriculodebora-lara.vercel.app/
 
 
