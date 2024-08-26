@@ -24,8 +24,8 @@
 - https://deboralara1.github.io/Portfolio/index.html
 
 ### Currículo 
-[<img src="img/cv.png" style=" height: 13vh;
-    width: 15vw;"/>](https://drive.google.com/file/d/1RiPasqYc3008Z2qrFJNrIoRC2IuxQBdS/view?usp=sharing)
+[<img src="img/cv.png" style=" height: 15vh;
+    width: 8vw;"/>](https://drive.google.com/file/d/1RiPasqYc3008Z2qrFJNrIoRC2IuxQBdS/view?usp=sharing)
 
 - Contato: 
 
