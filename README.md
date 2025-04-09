@@ -52,7 +52,7 @@ Sou movida por desafios, aprendizado contínuo e colaboração com times multidi
 | [**TECH-CHALLENGE**](https://github.com/DeboraLara1/DeboraLara1-TECH-CHALLENGE) | App com gráficos financeiros, filtros e arquitetura MFE com Docker. | Angular · Microfrontends · Docker |
 | [**Teste Front-End - Teddy**](https://github.com/DeboraLara1/teste-frontend-teddy) | Sistema com Angular 19, responsivo, com design system e testes. | Angular · Arquitetura Standalone · CI/CD |
 | [**Controle Financeiro Mobile**](https://github.com/DeboraLara1/controle-financeiro-mobile) | App em React Native com Firebase e gráficos interativos. | React Native · Firebase · Expo |
-| [**Folha de Pagamento**](https://github.com/DeboraLara1/sistema-folha-pagamento) | Sistema Java para gestão de funcionários e geração de holerite. | Java · OOP |
+| [**App-angular-9**](https://github.com/DeboraLara1/App-angular-9/blob/master/README.md) | aplicação web para gerenciamento completo de produtos (CRUD - Create, Read, Update, Delete) | Angular |
 
 ---
 
