@@ -69,7 +69,7 @@ Sou movida por desafios, aprendizado contínuo e colaboração com times multidi
 
 Se curtiu algum projeto, quer trocar ideia sobre tecnologia ou trabalhar comigo, bora conversar!  
 📧 **debora.lara@gmail.com**  
-🔗 [linkedin.com/in/deboralara1](https://www.linkedin.com/in/deboralara1)
+🔗 [linkedin.com/in/deboralara](https://www.linkedin.com/in/deboralara)
 
 ---
 
