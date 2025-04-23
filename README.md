@@ -49,10 +49,9 @@ Sou movida por desafios, aprendizado contínuo e colaboração com times multidi
 
 | 🌟 Projeto | 💬 Descrição | 🛠️ Tecnologias |
 |-----------|--------------|----------------|
-| [**TECH-CHALLENGE**](https://github.com/DeboraLara1/DeboraLara1-TECH-CHALLENGE) | App com gráficos financeiros, filtros e arquitetura MFE com Docker. | Angular · Microfrontends · Docker |
-| [**Teste Front-End - Teddy**](https://github.com/DeboraLara1/teste-frontend-teddy) | Sistema com Angular 19, responsivo, com design system e testes. | Angular · Arquitetura Standalone · CI/CD |
-| [**Controle Financeiro Mobile**](https://github.com/DeboraLara1/controle-financeiro-mobile) | App em React Native com Firebase e gráficos interativos. | React Native · Firebase · Expo |
-| [**App-angular-9**](https://github.com/DeboraLara1/App-angular-9/blob/master/README.md) | aplicação web para gerenciamento completo de produtos (CRUD - Create, Read, Update, Delete) | Angular |
+| [**TaskFlow - Gerenciador de Tarefas Inteligente**](https://github.com/DeboraLara1/react-chalenge-todo-list?tab=readme-ov-file) | TaskFlow - Gerenciador de Tarefas Inteligente | React · APi |
+| [**Cadastro de Produtos**](https://github.com/DeboraLara1/App-angular-9) |aplicação web para gerenciamento completo de produtos (CRUD - Create, Read, Update, Delete) | Angular |
+| [**Biscoito da Sorte - React Native**](https://github.com/DeboraLara1/Biscoito-da-Sorte-ReactNative) | Um aplicativo divertido que simula um biscoito da sorte virtual! Quebre o biscoito e descubra sua frase de sorte do dia. | React Native
 
 ---
 
